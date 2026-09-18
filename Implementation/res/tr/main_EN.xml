@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DevRes>
+    <Translations>
+
+        <Res id="appTitle" tr="Smart Energy"/>
+        <Res id="optimizationModel" tr="SETTINGS"/>
+        <Res id="optimizationModelInfo" tr="Tariff, connection and appliances"/>
+
+        <Res id="householdParameters" tr="HOME AND POWER"/>
+        <Res id="connectionCapacity" tr="Power [kW]:"/>
+
+        <Res id="tariffParameters" tr="TARIFF"/>
+        <Res id="tariffProfile" tr="Profile:"/>
+        <Res id="lowTariff" tr="Low [KM/kWh]:"/>
+        <Res id="highTariff" tr="High [KM/kWh]:"/>
+
+        <Res id="summerWorkingDay" tr="Summer working day"/>
+        <Res id="winterWorkingDay" tr="Winter working day"/>
+        <Res id="sundayLowTariff" tr="Sunday - low tariff"/>
+
+        <Res id="washingMachine" tr="Washing machine"/>
+        <Res id="dishwasher" tr="Dishwasher"/>
+        <Res id="waterHeater" tr="Water heater"/>
+        <Res id="storageHeater" tr="Storage heater"/>
+        <Res id="enabled" tr="Enabled"/>
+
+        <Res id="energyDemand" tr="Energy [kWh]:"/>
+        <Res id="duration" tr="Duration [h]:"/>
+        <Res id="earliestStart" tr="From:"/>
+        <Res id="latestFinish" tr="To:"/>
+
+        <Res id="optimize" tr="OPTIMIZE"/>
+        <Res id="reset" tr="Clear"/>
+        <Res id="defaultScenario" tr="Example"/>
+
+        <Res id="invalidInput" tr="Invalid input"/>
+        <Res id="tariffOrderError" tr="The high tariff must be greater than or equal to the low tariff."/>
+        <Res id="invalidOptimizationProblem" tr="Check the entered values"/>
+        <Res id="language" tr="Language:"/>
+		<Res id="householdPower" tr="Household power"/>
+
+    </Translations>
+</DevRes>

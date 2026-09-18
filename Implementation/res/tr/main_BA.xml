@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DevRes>
+    <Translations>
+
+        <Res id="appTitle" tr="Pametna energija"/>
+        <Res id="optimizationModel" tr="POSTAVKE"/>
+        <Res id="optimizationModelInfo" tr="Tarifa, priključak i uređaji"/>
+
+        <Res id="householdParameters" tr="DOM I SNAGA"/>
+        <Res id="connectionCapacity" tr="Snaga [kW]:"/>
+
+        <Res id="tariffParameters" tr="TARIFA"/>
+        <Res id="tariffProfile" tr="Profil:"/>
+        <Res id="lowTariff" tr="Niža [KM/kWh]:"/>
+        <Res id="highTariff" tr="Viša [KM/kWh]:"/>
+
+        <Res id="summerWorkingDay" tr="Ljetni radni dan"/>
+        <Res id="winterWorkingDay" tr="Zimski radni dan"/>
+        <Res id="sundayLowTariff" tr="Nedjelja, niža tarifa"/>
+
+        <Res id="washingMachine" tr="Veš mašina"/>
+        <Res id="dishwasher" tr="Mašina za suđe"/>
+        <Res id="waterHeater" tr="Bojler"/>
+        <Res id="storageHeater" tr="Peć"/>
+        <Res id="enabled" tr="Aktivan"/>
+
+        <Res id="energyDemand" tr="Energija [kWh]:"/>
+        <Res id="duration" tr="Trajanje [h]:"/>
+        <Res id="earliestStart" tr="Od:"/>
+        <Res id="latestFinish" tr="Do:"/>
+
+        <Res id="optimize" tr="OPTIMIZUJ"/>
+        <Res id="reset" tr="Očisti"/>
+        <Res id="defaultScenario" tr="Primjer"/>
+
+        <Res id="invalidInput" tr="Neispravan unos"/>
+        <Res id="tariffOrderError" tr="Viša tarifa mora biti veća ili jednaka nižoj tarifi."/>
+        <Res id="invalidOptimizationProblem" tr="Provjeri unesene podatke"/>
+        <Res id="language" tr="Jezik:"/>
+		<Res id="householdPower" tr="Snaga domaćinstva"/>
+
+    </Translations>
+</DevRes>
